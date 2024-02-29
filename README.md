@@ -30,6 +30,7 @@
 
 ![image](https://github.com/murranik/untitled11-master/assets/60602487/a8f72806-5f4c-463f-a8a3-0725885b58b8) 
 ![image](https://github.com/murranik/untitled11-master/assets/60602487/aff83e94-bdc1-48f1-a0aa-5e5519398fa3)
+
 зменшено кількість перевірок
 не було else'ів через щщо виконувались би всі перевіркі
 використав return так як такий код легше читати 
